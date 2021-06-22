@@ -6,6 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na FMU.
 - 🌱 &nbsp; Aprendendo mais sobre **React e todo o ecossistema em volta dele**.
+- 😉 &nbsp; Eu amo programação igual eu amo a minha namorada. Eu amo demais a minha namorada.
 
 <h3>Minhas Skills </h3>
 
