@@ -4,10 +4,9 @@
  
  🚫 🚫 GITHUB ABANDONADO 🚫 🚫
  <p>
- [Acesse o meu novo perfil clicando aqui](https://github.com/Arthur-Maskalenkas)
+  <a href="https://github.com/Arthur-Maskalenkas">Acesse o meu novo perfil clicando aqui</a>
  </p>
  </h1> 
-  [Acesse o meu novo perfil clicando aqui](https://github.com/Arthur-Maskalenkas)
 <h3> &nbsp;Sobre mim </h3>
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na FMU.
@@ -35,7 +34,7 @@ Ferramentas de desenvolvimento
  
  🚫 🚫 GITHUB ABANDONADO 🚫 🚫
  <p>
- [Acesse o meu novo perfil clicando aqui](https://github.com/Arthur-Maskalenkas)
+  <a href="https://github.com/Arthur-Maskalenkas">Acesse o meu novo perfil clicando aqui</a>
  </p>
  </h1> 
 <br/>
