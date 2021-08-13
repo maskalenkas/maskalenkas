@@ -1,8 +1,14 @@
 
 ![](https://komarev.com/ghpvc/?username=maskalenkasSwerts&color=006bed)
-
+ <h1>
+ 
+ 🚫 🚫 GITHUB ABANDONADO 🚫 🚫
+ <p>
+ [Acesse o meu novo perfil clicando aqui](https://github.com/Arthur-Maskalenkas)
+ </p>
+ </h1> 
+  [Acesse o meu novo perfil clicando aqui](https://github.com/Arthur-Maskalenkas)
 <h3> &nbsp;Sobre mim </h3>
-
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na FMU.
 - 🌱 &nbsp; Aprendendo mais sobre **React e todo o ecossistema em volta dele**.
@@ -25,5 +31,11 @@ Ferramentas de desenvolvimento
   ![Visual Studio Codesa](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
   
 <br/>
-
+ <h1>
+ 
+ 🚫 🚫 GITHUB ABANDONADO 🚫 🚫
+ <p>
+ [Acesse o meu novo perfil clicando aqui](https://github.com/Arthur-Maskalenkas)
+ </p>
+ </h1> 
 <br/>
